@@ -1,4 +1,4 @@
-[![MasterHead](https://blogs.swarthmore.edu/its/2022/12/02/whats-new-from-github-universe-2022/)
+[![MasterHead]([https://blogs.swarthmore.edu/its/2022/12/02/whats-new-from-github-universe-2022/](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png))
 <h1 align="center">Hi 👋, I'm Koray GEZ</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
